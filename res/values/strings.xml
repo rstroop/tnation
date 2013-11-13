@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">TN531</string>
+    <string name="get_start">Based on Start Date:</string>
+    <string name="get_today">Get Workout For:</string>
+    <string name="set_maxes">Set Maxes</string>
+    <string name="set_workouts">Set Workouts</string>
+    <string name="settings_max">Set Maxes</string>
+    <string name="settings_date">Set Date</string>
+    <string name="settings_workout">Set Workouts</string>
+    <string name="settings_clear">Clear Preferences</string>
+    <string name="title_activity_main">T Nation\'s 5 3 1</string>
+    <string name="get_workout">Get Workout</string>
+    <string name="save">Save</string>
+    <string name="done">Done</string>
+
+</resources>

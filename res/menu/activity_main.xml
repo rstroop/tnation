@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/settings_max"
+        android:title="@string/settings_max"
+        android:orderInCategory="2" />
+    <item android:id="@+id/settings_date" android:title="@string/settings_date" android:orderInCategory="1"></item>
+    <item android:id="@+id/settings_clear" android:title="@string/settings_clear" android:orderInCategory="4"></item>
+    <item android:id="@+id/settings_workout" android:title="@string/settings_workout" android:orderInCategory="3"></item>
+</menu>
